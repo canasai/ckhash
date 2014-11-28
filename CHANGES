@@ -1,0 +1,5 @@
+0.4.3	23 September 2009
+	* In ckh_insert(), changed snprintf to strncpy for faster string copying.
+	* New ckh_increase_value2() function.
+	* In ckh_export_table() and ckh_export_key(), replaced system() call
+	  that executes sort command with internal qsort().
