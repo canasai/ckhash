@@ -12,14 +12,14 @@ Quick Start
 
 (1) In the ckhash base directory, type:
 ```bash
-./configure
-make
+$ ./configure
+$ make
 ```
 
 (2) To test that the program works properly, type:
 ```bash
-cd test
-./test-cuckoo linux.words
+$ cd test
+$ ./test-cuckoo linux.words
 ```
 
 You should get the following results:
