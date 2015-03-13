@@ -10,7 +10,6 @@ ckhash is an implementation of Cuckoo hashing that can get the input in the form
 # Quick Start
 
 1. In the ckhash base directory, type:
-
 ```
 bash
 $ ./configure
@@ -18,7 +17,6 @@ $ make
 ```
 
 2. To test that the program works properly, type:
-
 ```
 bash
 $ cd test
