@@ -1,7 +1,3 @@
-/*
- * Copyright (C) 2008-2009 National Institute of Information and Communications Technology
- */
-
 #ifndef __cuckoo_hash_H
 #define __cuckoo_hash_H
 
