@@ -1,7 +1,3 @@
-/*
- * Copyright (C) 2008-2009 National Institute of Information and Communications Technology
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
