@@ -11,20 +11,18 @@ ckhash is an implementation of Cuckoo hashing that can get the input in the form
 
 In the ckhash base directory, type:
 ```
-bash
 $ ./configure
 $ make
 ```
 
 To test that the program works properly, type:
 ```
-bash
 $ cd test
 $ ./test-cuckoo linux.words
 ```
 
 You should get the following results:
-```bash
+```
 test insert...
  45402 entries, table size = 65536
 test lookup...
