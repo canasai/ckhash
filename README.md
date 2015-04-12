@@ -36,7 +36,7 @@ test delete...
  0 errors, remain 0 entries, table size = 2
 ```
 
-# References
+#### References
 
 * Rasmus Pagh and Flemming Friche Rodler. 2001. Cuckoo Hashing, Proceedings of ESA 2001, Lecture Notes in Computer Science, vol. 2161.
 
