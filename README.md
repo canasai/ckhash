@@ -8,7 +8,7 @@ promising in terms of memory consumption and lookup time (Jaruskulchai and Kruen
 ckhash is an implementation of Cuckoo hashing that can get the input in the form of strings. ckhash is written in C. The original source code can be found from this url: http://www.it-c.dk/people/pagh/papers/cuckoo.tar. You can use functions in ckhash by linking the library to your program. See `test/test-cuckoo.c' for examples of function calls.
 
 
-### Quick Start
+#### Quick Start
 
 In the ckhash base directory, type:
 ```
