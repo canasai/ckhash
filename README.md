@@ -38,6 +38,10 @@ test delete...
 
 #### References
 
-* Rasmus Pagh and Flemming Friche Rodler. 2001. Cuckoo Hashing, Proceedings of ESA 2001, Lecture Notes in Computer Science, vol. 2161.
+* Cuckoo Hashing. 
+  Rasmus Pagh and Flemming Friche Rodler.
+  Proceedings of ESA 2001, Lecture Notes in Computer Science, vol. 2161.
 
-* Chuleerat Jaruskulchai and Canasai Kruengkrai. 2002. Building Inverted Files Through Efficient Dynamic Hashing. Proceedings of the Fifth National Computer Science and Engineering Conference (NCSEC-2002).
+* Building Inverted Files Through Efficient Dynamic Hashing.
+  Chuleerat Jaruskulchai and Canasai Kruengkrai. 
+  Proceedings of the Fifth National Computer Science and Engineering Conference (NCSEC-2002).
